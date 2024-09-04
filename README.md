@@ -76,6 +76,11 @@ Alternately, you can set the size of the image using just a bit of HTML:
 
 Remember that you'll need to upload the image into your repository, or include a link to the image somewhere else.  
 
+## Here's an example of how to link to another page using Markdown.
+
+[link to other page](dataviz1.md)
+
+
 ### Setting up a separate page
 
 So here's the code you'll need to add to your own site to create a second page. 
@@ -94,3 +99,4 @@ Any of those formats will work. Here's some examples of working links:
 Make sure to check these from your publicly accessible URL to make sure they're working correctly (not from the preview tab). 
 
 Looking for more?  A nice Markdown guide [can be found here](https://www.markdownguide.org/cheat-sheet/)
+
