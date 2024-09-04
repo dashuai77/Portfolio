@@ -1,21 +1,12 @@
 # Portfolio
-This is my public portfolio for Telling Stories with Data at CMU!  Here's where all my cool work will go.  You should probably hire me. 
+This is my public portfolio for Telling Stories with Data at CMU!  Here's where all my cool work will go. You should probably hire me. 
 
 # About me
-Hi!  My name is Ziyi Shan.
+Hi! My name is Ziyi Shan. My pronouns are he or his. I’m in the MISM-BIDA 16 months program. This is my second year in Pittsburgh. In my daily life, I would like to spend time reading, watching sporting competitions and playing video games. 
+
 
 # What I hope to learn
-All the things - obviously. Maybe I want to make a list of all the things.  If so, I can do so in Markdown like this: 
-
-1. List item #1
-2. List item #2
-3. List item #3
-
-or...
-
-- List item #1
-- List item #2
-- List item #3
+Through this course, I hope to learn how to use data to identify problems in a technology company's operations, find out the causes of the problems, and help the company develop strategies to solve the problems. At the same time, I would like to acquire some skills to enhance the aesthetics of data visualization, which will help me create clearer and more accurate visualization boards and reports for future reporting and presentation. After graduation, I would like to become a data analyst or data scientist to assist in decision making from a data perspective to help the company gain greater benefits. What I have learned in this course will be very useful in my future interviews and jobs to improve my data visualization skills.
 
 # Portfolio
 
