@@ -24,9 +24,9 @@ or...
 ## Assignment 3&4: [Critique by Design](critique-by-design)
 
 ## Final project
-[Part I](final-project-part-one)
-[Part II](final-project-part-two)
-[Part III](final-project-part-three)
+[Part I](final-project-part-one.md)
+[Part II](final-project-part-two.md)
+[Part III](final-project-part-three.md)
 
 ### Adding images
 Here's an example of how to add an image to my portfolio.
