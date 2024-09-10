@@ -10,9 +10,9 @@ Through this course, I hope to learn how to use data to identify problems in a t
 
 # Portfolio
 
-## Assignment: [Visualizing government Debt](visualizing-government-debt)
+## Assignment: [Visualizing government Debt](visualizing-government-debt.md)
 
-## Assignment 3&4: [Critique by Design](critique-by-design)
+## Assignment 3&4: [Critique by Design](critique-by-design.md)
 
 ## Final project
 [Part I](final-project-part-one.md)
