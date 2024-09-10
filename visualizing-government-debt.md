@@ -30,9 +30,16 @@
 
 Summarize in a paragraph or two about the different methods of visualization, and how they compare / contrast to one another. Make sure you include all source information and explain the data well.  Talk about why you chose the third data visualization.  Be specific - keep your writeup relevant to the assignment, and avoid jargon-filled language that doesn't say anything useful.
 
-The bar chart in part one shows that the general government debt of different countries in the same year, through this data visualization, we can understand which countries' government debt situation is worse compared to OCED average general government debt.
-The heatmap in part two shows that the 
-The box plot I chose as my own visualization shows that the distribution of different countries' general government debt
+### Answer of the question
+The bar chart in part one shows that the general government debt of different countries in the same year, through this data visualization, we can understand which countries' government debt situation is better or worse compared to OCED average general government debt. Compared to other data visualizations, bar chart is suitable to display the difference of debt situation between different countries and bar chart is easier for audiences
+to understand.
+
+The heatmap in part two shows that the distribution of general government debt across different countries and different years.
+The box plot I chose as my own visualization shows that the distribution of different countries' general government debt across the years, through this data visualization, we can know that Japan and Greece's general government debt is always very high in many years which implies that these two countries experienced a serve debt crisis. Especially for Japan, its general government debt is always an outlier in many years. For some countries such as Estonia and Chile had a low standard goverenment debt which implies that these two countries had a good financial sustainability. Compared to 
+Other data visualizations, heatmap and box plot are both suitable to display the distribution of general government debt. For heatmap, the distribution is always more obvious. And through box plot, we can know the median, whisker and hinge of the data which can help us make more detailed analysis of data.
+
+The reason I chose the box plot as my third data visualization is that I want to check out which countries' government debt situation is the worst compared to other countries and explore the cause of high general government debt. At the same time, based on the median and distribution of 
+general government debt in different years, I want to understand which year had the worst global government debt situation. 
 
 
 
