@@ -12,7 +12,8 @@ Through this course, I hope to learn how to use data to identify problems in a t
 
 ## Assignment: [Visualizing government Debt](visualizing-government-debt.md)
 
-Part1: ![A general government debt](General Government debt.png)
+Part1: ![](images/General Government debt.png?raw=true)
+
 
 ## Assignment 3&4: [Critique by Design](critique-by-design.md)
 
