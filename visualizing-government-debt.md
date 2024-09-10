@@ -7,6 +7,8 @@ _As before, this template provides some of the structure you should have for you
 
 _Include your visualization, and introduce us to what you did._
 
+![A picture](General-Government-debt.png)
+
 ## Working with Tableau
 
 _A reminder that to get the Tableau visualization to render correctly on Github, you'll have to do a bit of editing of the code block once you paste it here.  As before, make sure to walk us through what you did in Tableau, and any thoughts or observations, etc._
