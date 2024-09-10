@@ -14,7 +14,8 @@ Through this course, I hope to learn how to use data to identify problems in a t
 
 ![A picture](General-Government-debt.png)
            
-<script type='text/javascript'>                    
+<script type='text/javascript'>   
+
   var divElement = document.getElementById('viz1725988365679');
   var vizElement = divElement.getElementsByTagName('object')[0];
   vizElement.style.width='100%';vizElement.style.height=(divElement.offsetWidth*0.75)+'px';                    
