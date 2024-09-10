@@ -28,9 +28,15 @@
            vizElement.parentNode.insertBefore(scriptElement, vizElement);                
 </script>
 
-Summarize in a paragraph or two about the different methods of visualization, and how they compare / contrast to one another. Make sure you include all source information and explain the data well.  Talk about why you chose the third data visualization.  Be specific - keep your writeup relevant to the assignment, and avoid jargon-filled language that doesn't say anything useful._
+Summarize in a paragraph or two about the different methods of visualization, and how they compare / contrast to one another. Make sure you include all source information and explain the data well.  Talk about why you chose the third data visualization.  Be specific - keep your writeup relevant to the assignment, and avoid jargon-filled language that doesn't say anything useful.
 
-It's a good idea to go back and review your work.  Could someone follow your process and understand what you did?  Do you need to further connect any of the sections with a bit of text?  Is it something you'd be happy to have as an example of your work from the class?_
+The bar chart in part one shows that the general government debt of different countries in the same year, through this data visualization, we can understand which countries' government debt situation is worse compared to OCED average general government debt.
+The heatmap in part two shows that the 
+The box plot I chose as my own visualization shows that the distribution of different countries' general government debt
+
+
+
+
 
 
 
