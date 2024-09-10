@@ -12,6 +12,8 @@ Through this course, I hope to learn how to use data to identify problems in a t
 
 ## Assignment: [Visualizing government Debt](visualizing-government-debt.md)
 
+Part1: ![A lol character picture](Zoe.jpg)
+
 ## Assignment 3&4: [Critique by Design](critique-by-design.md)
 
 ## Final project
