@@ -10,6 +10,9 @@ The resaon I selected this data visualization is that advertsing is very importa
 
 ## Step two: the critique
 
+ ### The summary of critique
+
+
 
 
 
