@@ -32,15 +32,20 @@ I think this method is successful at evaluating the data visualization. Because 
 Interviewer 1: A CMU Student, mid 20's
 
 Questions: 1.What do you think is the theme of this data visualization?
+
 This data visualization may be about how the expenditure of different advertising methods changes over time. It seems that the Internet will be the most popular advertising method in 2024.
 
 2.Who do you think is the intended audience for this data visualization?
+
 The intended audiences may be some advertisers who want to promote their products through the Internet, television and other ways.
 
 3.Is there anything that confuses you about this data visualization?
+
 I’m just confused that ‘other’ specifically refers to which types of advertising methods. The proportion of ‘Other’ from 2012 to 2016 is relatively high, so I’m curious about what advertising methods are included in it. 
-          4.What do you think could be improved with this data visualization? 
-           Everything seems good. I just want to split the ‘Other’ into some more specific advertising methods. I think there will be some useful insights we can get from it.
+
+4.What do you think could be improved with this data visualization? 
+
+Everything seems good. I just want to split the ‘Other’ into some more specific advertising methods. I think there will be some useful insights we can get from it.
          
          
 Interviewer 2: An adult, late 40's
