@@ -4,7 +4,7 @@
 
 Link to the original data visualization: https://www.visualcapitalist.com/majority-advertising-dollars-spent-online/
 
-Screenshoot of the original data visualization: ![A picture](online-revenue.png)
+Screenshoot of the original data visualization: ![A picture](online-revenue.jpg)
 
 The resaon I selected this data visualization is that advertsing is very important for many tech companies. The advertising spending accounts for a very high proportion of many companies' spending, through redesigning this data visualization, we can find which advertising method is more popular in recent years and help companies find the best advertising method to promote their products. 
 
