@@ -93,10 +93,13 @@ Through all the feedbacks, I think there are three important design changes I ca
  </script>
 
 
+ In my final solution, I use a bar chart to contrast the different advertising methods' spending in 2012 and 2024. I chose this data visualization to help intended audiences understand the increase or decline situation in different advertising methods' spending, which will help them choose the most effective ways to advertise their products. Compared to previous data visualization, I added a line to display the increase or decline ratio of each advertising method's spending. 
+
+
  ### Reference:
  Link to the Watch Me Viz video: https://www.youtube.com/watch?v=uJxVKJYLS_o&list=PLX-uPHRG0cLb697Ie-ZGSObRLLNhxzJGK&index=127
 
 
 
-_Include and describe your final solution here. It's also a good idea to summarize your thoughts on the process overall. When you're done with the assignment, this page should all the items mentioned in the assignment page on Canvas(a link or screenshot of the original data visualization, documentation explaining your process, a summary of your wireframes and user feedback, your final, redesigned data visualization, etc.)._
+
 
