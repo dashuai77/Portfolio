@@ -10,7 +10,7 @@ The resaon I selected this data visualization is that advertsing is very importa
 
 ## Step two: the critique
 
- ### The summary of critique
+### The summary of critique
 
 This data visualization used line charts to display the trend of the proportion of different types of advertising expenditure. Through line charts, I can clearly understand the popularity of which advertising method has increased significantly in recent years. But this data visualization also had many disadvantages. For example, using proportion may be less intuitive than using numbers. Although we can understand which advertising method has become more popular, it’s difficult for us to understand the growth range or decline range in spending for each advertising method. To improve it, I would use the numbers to replace the proportion as the advertising spending and add an increase or decline ratio to the chart which will help us understand the changing situation of different advertising methods’ spending better. 
 
@@ -27,7 +27,7 @@ I think this method is successful at evaluating the data visualization. Because 
  
 ## Step four: Test the solution
 
- ### The summary of user feedback:
+### The summary of user feedback:
 
 Interviewer 1: A CMU Student, mid 20's
 
@@ -67,7 +67,7 @@ The one thing I’m confused about is why this visualization shows every year’
 To improve this data visualization, I think you can just contrast each advertising method’s spending between 2012 and 2024, and use the specific number to calculate the increase or decline ratio of advertising spending. I think it’s a great way to help me and other audiences to quickly understand which advertising method spending increases significantly. 
 
 
- ### Synthesis: 
+### Synthesis: 
 
   Through these feedbacks, I learned that when we create a data visualization, we need to carefully think about who will be the intended audiences for this data visualization. Different audiences will have different goals to use data visualization, we need to make the content of our visualizations clearly understood by different types of audiences.  
 
@@ -80,7 +80,7 @@ Through all the feedbacks, I think there are three important design changes I ca
 2. I can decline the number of years, and just contrast the result between 2012 and 2024. Through this change, the increase of Internet advertising spending will become more obvious. 
 3. Instead of using proportion as the label, I will use the specific number as the label and add an increase or decline ratio for each advertising method. Through this way, audiences can get a more intuitive sense of how spending is changing across different advertising methods. 
 
- ### My final solution:
+### My final solution:
 
  <div class='tableauPlaceholder' id='viz1726710861124' style='position: relative'><noscript><a href='#'><img alt='THE GROWTH OF INTERNET AD SPEND: 2012 vs. 2024 ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Ma&#47;MakeoverMondayWeek46-TheGrowthofInternetAdSpend-2020vs2012_17267008163900&#47;FinalRedesignBarChart&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='MakeoverMondayWeek46-TheGrowthofInternetAdSpend-2020vs2012_17267008163900&#47;FinalRedesignBarChart' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Ma&#47;MakeoverMondayWeek46-TheGrowthofInternetAdSpend-2020vs2012_17267008163900&#47;FinalRedesignBarChart&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-US' /><param name='filter' value='publish=yes' /></object></div>                
  <script type='text/javascript'>                    
@@ -95,8 +95,7 @@ Through all the feedbacks, I think there are three important design changes I ca
 
  In my final solution, I use a bar chart to contrast the different advertising methods' spending in 2012 and 2024. I chose this data visualization to help intended audiences understand the increase or decline situation in different advertising methods' spending, which will help them choose the most effective ways to advertise their products. Compared to previous data visualization, I added a line to display the increase or decline ratio of each advertising method's spending. 
 
-
- ### Reference:
+### Reference:
  Link to the Watch Me Viz video: https://www.youtube.com/watch?v=uJxVKJYLS_o&list=PLX-uPHRG0cLb697Ie-ZGSObRLLNhxzJGK&index=127
 
 
