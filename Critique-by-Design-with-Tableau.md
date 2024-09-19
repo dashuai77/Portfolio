@@ -27,48 +27,39 @@ I think this method is successful at evaluating the data visualization. Because 
  
 ## Step four: Test the solution
 
-### The summary of user feedback:
+ ### The summary of user feedback:
 
 Interviewer 1: A CMU Student, mid 20's
 
 Questions: 1.What do you think is the theme of this data visualization?
-
-         This data visualization may be about how the expenditure of different advertising methods changes over time. It seems that the Internet will be the most popular advertising method in 2024.
-
+            This data visualization may be about how the expenditure of different advertising methods changes over time. It seems that the Internet will be the most popular advertising method in 2024.
+            
            2.Who do you think is the intended audience for this data visualization?
-
-         The intended audiences may be some advertisers who want to promote their products through the Internet, television and other ways.
+           The intended audiences may be some advertisers who want to promote their products through the Internet, television and other ways.
 
            3.Is there anything that confuses you about this data visualization?
-
-         I’m just confused that ‘other’ specifically refers to which types of advertising methods. The proportion of ‘Other’ from 2012 to 2016 is relatively high, so I’m curious about what advertising methods are included in it. 
+           I’m just confused that ‘other’ specifically refers to which types of advertising methods. The proportion of ‘Other’ from 2012 to 2016 is relatively high, so I’m curious about what advertising methods are included in it. 
 
            4.What do you think could be improved with this data visualization? 
-
-         Everything seems good. I just want to split the ‘Other’ into some more specific advertising methods. I think there will be some useful insights we can get from it.
+           Everything seems good. I just want to split the ‘Other’ into some more specific advertising methods. I think there will be some useful insights we can get from it.
          
          
 Interviewer 2: An adult, late 40's
 
 Questions: 1.What do you think is the theme of this data visualization?
-
-         I think it can tell me which advertising methods have become more and more popular and which advertising methods have shown significant declines in popularity. 
-
-           2.Who do you think is the intended audience for this data visualization?
-
-         I think the intended audiences will be the advertising companies. They will be interested in which advertising methods are more popular in recent years.
-
-           3.Is there anything that confuses you about this data visualization?
-
-         The one thing I’m confused about is why this visualization shows every year’s advertising spending distribution. In some years, the proportion of the Internet does not seem to increase significantly. In addition, through this visualization I can’t understand the increase or decline ratio of each advertising method’s spending, because it’s a proportion not a specific number. 
-
-
-           4.What do you think could be improved with this data visualization?
-
-         To improve this data visualization, I think you can just contrast each advertising method’s spending between 2012 and 2024, and use the specific number to calculate the increase or decline ratio of advertising spending. I think it’s a great way to help me and other audiences to quickly understand which advertising method spending increases significantly. 
+             I think it can tell me which advertising methods have become more and more popular and which advertising methods have shown significant declines in popularity. 
+             
+            2.Who do you think is the intended audience for this data visualization?
+            I think the intended audiences will be the advertising companies. They will be interested in which advertising methods are more popular in recent years.
+            
+            3.Is there anything that confuses you about this data visualization?
+            The one thing I’m confused about is why this visualization shows every year’s advertising spending distribution. In some years, the proportion of the Internet does not seem to increase significantly. In addition, through this visualization I can’t understand the increase or decline ratio of each advertising method’s spending, because it’s a proportion not a specific number. 
+            
+            4.What do you think could be improved with this data visualization?
+            To improve this data visualization, I think you can just contrast each advertising method’s spending between 2012 and 2024, and use the specific number to calculate the increase or decline ratio of advertising spending. I think it’s a great way to help me and other audiences to quickly understand which advertising method spending increases significantly. 
 
 
-### Synthesis: 
+ ### Synthesis: 
 
   Through these feedbacks, I learned that when we create a data visualization, we need to carefully think about who will be the intended audiences for this data visualization. Different audiences will have different goals to use data visualization, we need to make the content of our visualizations clearly understood by different types of audiences.  
 
@@ -81,11 +72,11 @@ Through all the feedbacks, I think there are three important design changes I ca
 2. I can decline the number of years, and just contrast the result between 2012 and 2024. Through this change, the increase of Internet advertising spending will become more obvious. 
 3. Instead of using proportion as the label, I will use the specific number as the label and add an increase or decline ratio for each advertising method. Through this way, audiences can get a more intuitive sense of how spending is changing across different advertising methods. 
 
-### My final solution:
+ ### My final solution:
 
 
-### Reference:
-Link to the Watch Me Viz video: https://www.youtube.com/watch?v=uJxVKJYLS_o&list=PLX-uPHRG0cLb697Ie-ZGSObRLLNhxzJGK&index=127
+ ### Reference:
+ Link to the Watch Me Viz video: https://www.youtube.com/watch?v=uJxVKJYLS_o&list=PLX-uPHRG0cLb697Ie-ZGSObRLLNhxzJGK&index=127
 
 
 
