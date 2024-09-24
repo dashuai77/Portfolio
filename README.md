@@ -15,7 +15,7 @@ Through this course, I hope to learn how to use data to identify problems in a t
 ## Assignment 3&4: [Critique by Design](critique-by-design.md)
 
 ## Final project
-[Part I](final-project-part-one.md)
+[Part I](final-project-part-one-Ziyi.md)
 [Part II](final-project-part-two.md)
 [Part III](final-project-part-three.md)
 
