@@ -33,6 +33,11 @@ When making real estate investments, investors should consider the impact of rem
 
 ## Initial sketches
 
+The rise of remote work: ![A picture](sketch1.jpg)
+
+The impact of remote work on commerical real estate: ![A picture](sketch2.jpg)
+
+The impact of remote work on investors : ![A picture](sketch3.jpg)
 
 ## The data
 
