@@ -46,8 +46,8 @@ I will use this data to create a line chart and check out the trend of remote wo
 
 | Name | URL | Description |
 |------|-----|-------------|
-|  %Working from home in each state.csv |   |             |
-|  telework-tables-2023-06.xlsx | https://github.com/dashuai77/Portfolio/blob/main/telework-tables-2023-06.xlsx  |             |
+|  %Working from home in each state.csv | https://github.com/dashuai77/Portfolio/blob/main/%25%20working-from-home-in-each-state.csv |             |
+|  telework-tables-2023-06.xlsx | https://github.com/dashuai77/Portfolio/blob/main/telework-tables-2023-06.xlsx |             |
 
 
 ## Method and medium
