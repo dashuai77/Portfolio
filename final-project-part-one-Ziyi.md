@@ -9,33 +9,40 @@ In recent years, especially after the COVID-19 pandemic, remote work has gradual
 
 1. The rise of remote work
    
-  Since the COVID-19 pandemic, the rate of remote working in lots of industries has risen substantially. And many companies, especially tech companies, announced that they will implement remote work completely. 
+Since the COVID-19 pandemic, the rate of remote working in lots of industries has risen substantially. And many companies, especially tech companies, announced that they will implement remote work completely. 
   
 2. Some benefits of remote work for employees and companies
-  For employees, remote work gives them a work-life balance. They don’t need to go to their office and they can just stay at home and spend time with their family which will improve their quality of life.
-  For companies, remote work helps them save much money by leasing expensive commercial office buildings. They can just use smaller spaces to help employees finish their work.
+   
+For employees, remote work gives them a work-life balance. They don’t need to go to their office and they can just stay at home and spend time with their family which will improve their quality of life.
+
+For companies, remote work helps them save much money by leasing expensive commercial office buildings. They can just use smaller spaces to help employees finish their work.
 
 3. The impact of remote work on the real estate economy
-  3.1 The impact of remote work on residential real estate
    
-  Due to the benefit of remote work for employees, employees don’t need to consider the restrictions of the workplace, they may choose cheaper, larger, and quieter suburban homes as their options. Demand for these suburban homes will increase dramatically, the price of these suburban residential real estate will also rise sharply. 
-  3.2 The impact of remote work on commercial real estate
+3.1 The impact of remote work on residential real estate
    
-  Due to the benefit of remote work for companies, they will not spend much money to lease commercial office buildings. As a result, the price of many commercial real estate, especially in large cities such as New York or Los Angeles, will decline dramatically. 
+Due to the benefit of remote work for employees, employees don’t need to consider the restrictions of the workplace, they may choose cheaper, larger, and quieter suburban homes as their options. Demand for these suburban homes will increase dramatically, the price of these suburban residential real estate will also rise sharply. 
+  
+3.2 The impact of remote work on commercial real estate
+   
+Due to the benefit of remote work for companies, they will not spend much money to lease commercial office buildings. As a result, the price of many commercial real estate, especially in large cities such as New York or Los Angeles, will decline dramatically. 
   
 4. Based on these impacts, helping our intended audiences such as buyers, sellers and real estate investors make wise decisions
-  When making real estate investments, investors should consider the impact of remote work. When the remote work ratio is higher or lower in one region, they need to make a more careful decision about investing in real estate. 
+   
+When making real estate investments, investors should consider the impact of remote work. When the remote work ratio is higher or lower in one region, they need to make a more careful decision about investing in real estate. 
 
 ## Initial sketches
 
 
 ## The data
 
-Data source: 
-  My data source is mainly the U.S. Bureau of Labor Statistics. On this website, I can get the dataset about the number and percentage of people teleworking by demographic characteristics and job characteristics. 
-  I will use this data to create a line chart and check out the trend of remote work ratio in recent years. Then I will use this data to create a map and check out which states have the most remote workers. By contrasting the price of real estate and the remote work ratio in each state, I can understand the impacts of remote work on real estate. 
+### Data source: 
+
+My data source is mainly the U.S. Bureau of Labor Statistics. On this website, I can get the dataset about the number and percentage of people teleworking by demographic characteristics and job characteristics. 
+
+I will use this data to create a line chart and check out the trend of remote work ratio in recent years. Then I will use this data to create a map and check out which states have the most remote workers. By contrasting the price of real estate and the remote work ratio in each state, I can understand the impacts of remote work on real estate. 
   
-A link to the publicly-accessible datasets:
+### A link to the publicly-accessible datasets:
 
 | Name | URL | Description |
 |------|-----|-------------|
