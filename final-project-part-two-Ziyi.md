@@ -20,7 +20,7 @@ Text here!
 ## Target audience
 > Include your approach to identifying representative individuals, and who you hope to reach with your story. 
 
-Text here!
+The target audiences of my project will be real estate developers and real estate investors.
 
 ## Interview script
 > List the goals from your research, and the questions you intend to ask. 
