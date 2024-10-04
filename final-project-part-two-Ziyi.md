@@ -48,7 +48,7 @@
 ## Target audience
 > Include your approach to identifying representative individuals, and who you hope to reach with your story. 
 
-The target audiences of my project will be real estate developers and real estate investors.
+The target audiences of my project will be real estate developers and real estate investors. To identify representative individuals to interview, I will consider who will be influenced by the topic of my project. Due to the topic of my project is the impact of remote work on real estate, I chose some people who have already worked remotely for a while or will work remotely in the future. Through interviewing with them, I will understand how people really feel about working remotely and their thoughts on whether remote work will affect real estate. 
 
 ## Interview script
 > List the goals from your research, and the questions you intend to ask. 
@@ -85,5 +85,6 @@ The target audiences of my project will be real estate developers and real estat
 
 > ...include any final thoughts you have here. 
 
+To improve my wireframes, I need to consider whether the wireframes can make target audiences get enough useful insights. More importantly, the storytelling of wireframes will make your audience impressed by your story and keep your project reaching the end goal. 
 
 
