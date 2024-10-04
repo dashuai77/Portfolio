@@ -58,13 +58,9 @@ Text here!
 | Goal | Questions to Ask |
 |------|------------------|
 | To identify whether my wireframe can clearly show the topic of my project.| Do you think these wireframes can help you get a clear understanding of the relationship between remote work and the real estate economy?|
-|      To make me understand whether my wireframe can help my target audiences find useful insights which can help them make more thoughtful decisions.
-      |       Do you think these wireframes can help my intended audiences such as real estate developers or real estate investors make more informed decisions？       |
-|    To find more effective ways to help me incorporate more stronger story components in my wireframes and final project.
-        |       Are these wireframes storytelling? If not, where do you think my wireframe could be improved to enhance its storytelling？       |
-|      To help me do a final check to see if there's anything missing or anything unclear in my wireframes. 
-      |       Is there anything that confuses you about these wireframes?
-       |
+| To make me understand whether my wireframe can help my target audiences find useful insights which can help them make more thoughtful decisions.|   Do you think these wireframes can help my intended audiences such as real estate developers or real estate investors make more informed decisions？|
+| To find more effective ways to help me incorporate more stronger story components in my wireframes and final project.| Are these wireframes storytelling? If not, where do you think my wireframe could be improved to enhance its storytelling？|
+| To help me do a final check to see if there's anything missing or anything unclear in my wireframes.| Is there anything that confuses you about these wireframes?|
 
 Text here!
 
