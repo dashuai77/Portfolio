@@ -77,9 +77,14 @@ Text here!
 
 | Questions               | Interview 1 (briefly describe) | Interview 2 | Interview 3 |
 |-------------------------|--------------------------------|-------------|-------------|
-| Question you asked here | Insightful feedback            |             |             |
-|                         |                                |             |             |
-|                         |                                |             |             |
+| Do you think these wireframes can help you get a clear understanding of the relationship between remote work and the real estate economy?
+ | Insightful feedback            |             |             |
+|       Do you think these wireframes can help my intended audiences such as real estate developers or real estate investors make more informed decisions?
+                  |                                |             |             |
+|        Are these wireframes storytelling? If not, where do you think my wireframe could be improved to enhance its storytelling？
+                 |                                |             |             |
+|           Is there anything that confuses you about these wireframes?
+              |                                |             |             |
 
 
 # Identified changes for Part III
@@ -93,7 +98,7 @@ Text here!
 |                                          |                                                                                 |
 |                                          |                                                                                 |
 |                                          |                                                                                 |
-| ...add more rows as necessary            |                                                                                 |
+|             |                                                                                 |
 
 > ...include any final thoughts you have here. 
 
