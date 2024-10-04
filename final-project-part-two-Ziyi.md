@@ -53,8 +53,6 @@ The target audiences of my project will be real estate developers and real estat
 ## Interview script
 > List the goals from your research, and the questions you intend to ask. 
 
-Text here!
-
 | Goal | Questions to Ask |
 |------|------------------|
 | To identify whether my wireframe can clearly show the topic of my project.| Do you think these wireframes can help you get a clear understanding of the relationship between remote work and the real estate economy?|
@@ -62,23 +60,20 @@ Text here!
 | To find more effective ways to help me incorporate more stronger story components in my wireframes and final project.| Are these wireframes storytelling? If not, where do you think my wireframe could be improved to enhance its storytelling？|
 | To help me do a final check to see if there's anything missing or anything unclear in my wireframes.| Is there anything that confuses you about these wireframes?|
 
-Text here!
 
 ## Interview findings
 > Detail the findings from your interviews.  Do not include PII.  Capture specific insights where possible.
 
-Text here!
 
-| Questions               | Interview 1 (briefly describe) | Interview 2 | Interview 3 |
+| Questions               | Interview 1 (A tech company employee who has already worked remotely for 4 years) | Interview 2(A CMU student who will graduate this year and join a tech company as a data scientist) | Interview 3(An real estate investor who has 10 years experience) |
 |-------------------------|--------------------------------|-------------|-------------|
-| Do you think these wireframes can help you get a clear understanding of the relationship between remote work and the real estate economy?
- | Insightful feedback            |             |             |
-|       Do you think these wireframes can help my intended audiences such as real estate developers or real estate investors make more informed decisions?
-                  |                                |             |             |
-|        Are these wireframes storytelling? If not, where do you think my wireframe could be improved to enhance its storytelling？
-                 |                                |             |             |
-|           Is there anything that confuses you about these wireframes?
-              |                                |             |             |
+| Do you think these wireframes can help you get a clear understanding of the relationship between remote work and the real estate economy? | I think these wireframes are relatively clear. It seems that you compare the remote work ratio with the price of two typical real estate, residential real estate and commercial real estate. In this wireframe, I guess when the remote work ratio increases, the price of commercial real estate will decrease, otherwise the price of residential real estate will increase. | I like the chart type which represents the relationship between remote work and real estate. This wireframe combines a line chart and bar chart to show the trend of remote work ratio and the price of real estate. I think it’s a good way to show the relationship between remote work and the real estate economy.| It seems clear to me, because I have some experience with this situation. But for some people without a similar work background like me, they may be confused about the relationship between remote work and real estate.|
+| Do you think these wireframes can help my intended audiences such as real estate developers or real estate investors make more informed decisions?
+|                                |             |             |
+| Are these wireframes storytelling? If not, where do you think my wireframe could be improved to enhance its storytelling？
+|                                |             |             |
+|Is there anything that confuses you about these wireframes?
+|                                |             |             |
 
 
 # Identified changes for Part III
