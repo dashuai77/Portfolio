@@ -1,4 +1,4 @@
-| [home page](https://dashuai77.github.io/Portfolio/) | [visualizing debt](visualizing-government-debt) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
+| [home page](https://dashuai77.github.io/Portfolio/) | [visualizing government debt](visualizing-government-debt.md) | [critique by design](critique-by-design.md) | [final project I](final-project-part-one-Ziyi.md) | [final project II](final-project-part-two-Ziyi.md) | [final project III](final-project-part-three.md) |
 # Portfolio
 This is my public portfolio for Telling Stories with Data at CMU!  Here's where all my cool work will go. You should probably hire me. 
 
@@ -17,7 +17,7 @@ Through this course, I hope to learn how to use data to identify problems in a t
 
 ## Final project
 [Part I](final-project-part-one-Ziyi.md)
-[Part II](final-project-part-two.md)
+[Part II](final-project-part-two-Ziyi.md)
 [Part III](final-project-part-three.md)
 
 ### Adding images
