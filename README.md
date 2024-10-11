@@ -21,7 +21,7 @@ Through this course, I hope to learn how to use data to identify problems in a t
 [Part III](final-project-part-three-Ziyi.md)
 
 # An image of my favorite Game Character
-Here's an example of how to add an image to my portfolio.
+A lol character - Zoe
 
 ![A lol character picture](Zoe.jpg)
 
