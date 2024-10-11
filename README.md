@@ -20,15 +20,8 @@ Through this course, I hope to learn how to use data to identify problems in a t
 [Part II](final-project-part-two-Ziyi.md)
 [Part III](final-project-part-three-Ziyi.md)
 
-### Adding images
+# An image of my favorite Game Character
 Here's an example of how to add an image to my portfolio.
 
 ![A lol character picture](Zoe.jpg)
-
-
-### Setting up a separate page
-
-Here's an example of how to link to another page using Markdown.
-
-[link to other page](dataviz1.md)
 
