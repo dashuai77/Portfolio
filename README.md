@@ -18,7 +18,7 @@ Through this course, I hope to learn how to use data to identify problems in a t
 ## Final project
 [Part I](final-project-part-one-Ziyi.md)
 [Part II](final-project-part-two-Ziyi.md)
-[Part III](final-project-part-three.md)
+[Part III](final-project-part-three-Ziyi.md)
 
 ### Adding images
 Here's an example of how to add an image to my portfolio.
