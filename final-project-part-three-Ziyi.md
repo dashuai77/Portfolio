@@ -1,9 +1,8 @@
 | [home page](https://dashuai77.github.io/Portfolio/) | [visualizing government debt](visualizing-government-debt.md) | [critique by design](Critique-by-Design-with-Tableau.md) | [final project I](final-project-part-one-Ziyi.md) | [final project II](final-project-part-two-Ziyi.md) | [final project III](final-project-part-three-Ziyi.md) |
 
 # The final data story
-> Include a link to your final data story on Shorthand, Esri StoryMaps, etc. here. 
 
-https://public.tableau.com/views/test1_17279356908850/ImpactofRemoteWorkonRealEstate?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+https://public.tableau.com/views/test1_17279356908850/ImpactofRemoteWorkonRealEstate?:language=enUS&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 
 # Changes made since Part II
 > Include few paragraphs that reflects on changes you made since the completion of Part II. 
