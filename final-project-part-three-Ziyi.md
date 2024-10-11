@@ -3,7 +3,7 @@
 # The final data story
 > Include a link to your final data story on Shorthand, Esri StoryMaps, etc. here. 
 
-Text here!
+https://public.tableau.com/views/test1_17279356908850/ImpactofRemoteWorkonRealEstate?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 
 # Changes made since Part II
 > Include few paragraphs that reflects on changes you made since the completion of Part II. 
