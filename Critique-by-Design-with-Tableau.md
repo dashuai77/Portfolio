@@ -1,4 +1,5 @@
 | [home page](https://dashuai77.github.io/Portfolio/) | [visualizing government debt](visualizing-government-debt.md) | [critique by design](Critique-by-Design-with-Tableau.md) | [final project I](final-project-part-one-Ziyi.md) | [final project II](final-project-part-two-Ziyi.md) | [final project III](final-project-part-three-Ziyi.md) |
+
 # Critique by Design with Tableau (MakeoverMonday)
 
 ## Step one: the visualization
