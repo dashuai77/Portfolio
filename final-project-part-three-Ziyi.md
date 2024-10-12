@@ -2,7 +2,7 @@
 
 # The final data story
 
-Link to my final story:
+Link to my final data story:
 https://public.tableau.com/views/test1_17279356908850/ImpactofRemoteWorkonRealEstate?:language=enUS&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 
 # Changes made since Part II
