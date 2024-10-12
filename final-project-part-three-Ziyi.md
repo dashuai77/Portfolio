@@ -29,9 +29,7 @@ The target audience of my final data story is real estate investor. Real estate 
 ## Final design decisions
 > You can specifically break out your design decisions here, or include it under *Changes made since Part II* and delete this section. Talk about the design decisions you had to make along the way, and reflect on anything in particular that stands out to you that you learned working through the process.  Include any other information that helps round out your data story. 
 
-In my data story, I need to 
-
-
+In my data story, I need to make some necessary design decisions. I think the most important design decision I made is layering the content of whole data story. Though introducing the overview impact of remote work ratio on real estate at first, I can make my audiences have a general idea of what this data story is about. After that, through different dimensions, such as region or time, to make audiences understand the specific impact of remote work on different types of real estate. Through this way, audeinces can have a clearer understanding of the overall structure of the data story which will also make them remember this data story more deeply. 
 
 
 ## References
@@ -49,8 +47,9 @@ In my data story, I need to
 [5] "The Impacts of Remote Work - And How It's Turned Out For Investors". BiggerPockets. https://www.biggerpockets.com/blog/the-real-world-impacts-on-remote-work-and-what-it-did-for-investors
 
 
-
 # Final thoughts
-> You can summarize any final thoughts / reflections that don't fit well in the previous sections here.  How did it go?  What did you run out of time for, or wish you had a chance to revisit?  What were you most excited about?  Include any final reflections as you think they might help us understand your process.  If you already included such reflections elsewhere, you can delete this section. 
+> You can summarize any final thoughts / reflections that don't fit well in the previous sections here.  How did it go?  What did you run out of time for, or wish you had a chance to revisit?  What were you most excited about?  Include any final reflections as you think they might help us understand your process.  If you already included such reflections elsewhere, you can delete this section.
+
+In my whole data story, I think there are some other points worth discussing. For example, 
 
 
