@@ -14,30 +14,34 @@ Change 1: Title of dashboards
 Change 2: Color of some data visualizations
 
 
-Chnage 3: Using some 
+Change 3: Outline of the data story 
+
 
 ## The audience
 > Talk about who you identified as the audience for your final data story.  Include any other information you've used that helped you narrow the focus (e.g. insights from your interviews, personas, etc.).  Note any specific adjustments you made to your final project to make it work for your audience.
 
-The target audience of my final data story is real estate investor. In my final data story, I foucs on the the correlation between remote work ratio and average price of real estate. To help my audiences understand my story more clearly, I use a map and some KPI values to show the overview impact of remote work on real estate
+The target audience of my final data story is real estate investor. In my final data story, I foucs on the the correlation between remote work ratio and average price of real estate. To help my audiences understand my story more clearly, I use a map and some KPI values to show the overview impact of remote work on real estate by each state in the United states. Through this dashboard, my audiences can have a better understand of which state will 
 
 ## Final design decisions
 > You can specifically break out your design decisions here, or include it under *Changes made since Part II* and delete this section. Talk about the design decisions you had to make along the way, and reflect on anything in particular that stands out to you that you learned working through the process.  Include any other information that helps round out your data story. 
 
-Text here!
+
 
 
 
 ## References
 > You should have already included detailed references on your Shorthand story - if so, you can probably skip this section.  Use this section to capture any additional special notes or information necessary.  If you do this, you probably want to include a link from Shorthand to this page. Make sure to double-check that you aren't using copyright material and that you have added / updated any citations or other content that you used to create your data story.  Make sure you have cited external sources correctly. 
 
-Text here!
 
-[1]
-[2]
-[3]
-[4]
-[5]
+[1] Dmytro,Okunyev. "The Future of Remote Work and Its Impact on Real Estate Trends". Mexico Business News. https://mexicobusiness.news/entrepreneurs/news/future-remote-work-and-its-impact-real-estate-trends
+
+[2] Jack, Flynn. "25 Trending Remote Work Statistics[2023]:Facts,Trends,And Projections". ZIPPIA. https://www.zippia.com/advice/remote-work-statistics/
+
+[3] "Remote Work Statistics and trends in 2024". USA Today. https://www.usatoday.com/money/blueprint/business/hr-payroll/remote-work-statistics/
+
+[4] Adi,Gaskell. "How Remote Work Has Affected Real Estate Values". Forbes. https://www.forbes.com/sites/adigaskell/2023/03/05/how-remote-work-has-affected-real-estate-values/
+
+[5] "The Impacts of Remote Work - And How It's Turned Out For Investors". BiggerPockets. https://www.biggerpockets.com/blog/the-real-world-impacts-on-remote-work-and-what-it-did-for-investors
 
 
 
