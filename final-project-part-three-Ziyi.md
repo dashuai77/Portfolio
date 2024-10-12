@@ -50,6 +50,6 @@ In my data story, I need to make some necessary design decisions. I think the mo
 # Final thoughts
 > You can summarize any final thoughts / reflections that don't fit well in the previous sections here.  How did it go?  What did you run out of time for, or wish you had a chance to revisit?  What were you most excited about?  Include any final reflections as you think they might help us understand your process.  If you already included such reflections elsewhere, you can delete this section.
 
-In my whole data story, I think there are some other points worth discussing. For example, 
+In my whole data story, I think there are some other points worth discussing. For example, if the remote work ratio increases continually, what policies will the US government implement to decrease the negative impact of remote work on commerical real estate. I think it's an interesting topic, because the commerical real estate economy has a close connection with the loans of many banks. When the price and demand of commerical real estate decreases continally, it may cause a serious economic crisis in the United States. So I think there will be many interesting points can be talked about for this topic. 
 
 
